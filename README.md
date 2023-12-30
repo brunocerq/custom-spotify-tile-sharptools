@@ -16,3 +16,6 @@ What I have changed:
 Works great in smaller tiles (3*3) or mega tile.
 
 Check images here: https://community.sharptools.io/t/spotify-custom-tile/6594/61
+
+To use in sharptools, follow the instructions to import the original script here: https://community.sharptools.io/t/spotify-custom-tile/6594/1
+Then when you have the code inside sharptools developer console just update the code for the one in this repository.
