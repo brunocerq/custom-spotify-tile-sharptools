@@ -77,7 +77,6 @@ html, body {
 }
 
 #spotify-main {
-  class="text-light" align="center";
   background-color: transparent;
   background-size: cover;
   background-repeat: no-repeat;
