@@ -12,6 +12,8 @@ What I have changed:
 - Centered control buttons
 
 - Applied transparency to elements background ( artist/song, player controls / lists )
+  
+- ADDED tracks list when playing a playlist. (only in spotify-tile-plus-track-list.js)
 
 Works great in smaller tiles (3*3) or mega tile.
 
